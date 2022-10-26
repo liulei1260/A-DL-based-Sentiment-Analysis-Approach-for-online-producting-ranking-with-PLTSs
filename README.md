@@ -8,12 +8,13 @@ A Pytorch implementation of deep model based approach for generating PLTSs for o
 TextCNN, TextRNN, CharNN, Transformers, fastText and Seq2Seq.
 We also implemented some machine learning based-models as a comparison: XGBoost, SVM, KNN, Naive Bayes.
 
+# Dataset in experiments
+The dataset we used in our experiments can be reviewed and downloaed from https://www.dropbox.com/sh/z0uajpyshew2owg/AAAb6B8D0FyM7I3K_i70LmY4a?dl=0, the origional data is derived from https://nijianmo.github.io/amazon/index.html
+
 # How to use
 1. Modify the data path and parameter settings as needed
 2. Use this command to train and test: python3 main.py
    i.e: python3 main.py
-# Dataset in experiments
-The dataset we used in our experiments can be reviewed and downloaed from https://www.dropbox.com/sh/z0uajpyshew2owg/AAAb6B8D0FyM7I3K_i70LmY4a?dl=0, the origional data is derived from https://nijianmo.github.io/amazon/index.html
 
 # Contact
 zixuxilan@gmail.com  limaomao.maolin@gmail.com
