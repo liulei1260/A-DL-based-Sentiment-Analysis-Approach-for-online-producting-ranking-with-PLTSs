@@ -15,6 +15,7 @@ The dataset we used in our experiments can be reviewed and downloaed from https:
 1. Modify the data path and parameter settings as needed
 2. Use this command to train and test: python3 main.py
    i.e: python3 main.py
+3. Reqiurements: Python, Pandas, Numpy, Pytorch, Spacy,Torchtext, nltk, scipy, fasttext, simpletransformers, sklearn,xgboost
 
 # Contact
 zixuxilan@gmail.com  limaomao.maolin@gmail.com
