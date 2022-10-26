@@ -9,7 +9,9 @@ TextCNN, TextRNN, CharNN, Transformers, fastText and Seq2Seq.
 We also implemented some machine learning based-models as a comparison: XGBoost, SVM, KNN, Naive Bayes.
 
 # Dataset in experiments
-The dataset we used in our experiments can be reviewed and downloaed from https://www.dropbox.com/sh/z0uajpyshew2owg/AAAb6B8D0FyM7I3K_i70LmY4a?dl=0, the origional data is derived from https://nijianmo.github.io/amazon/index.html
+The dataset we used in our experiments can be reviewed and downloaed from https://www.dropbox.com/sh/z0uajpyshew2owg/AAAb6B8D0FyM7I3K_i70LmY4a?dl=0
+
+The origional data is derived from https://nijianmo.github.io/amazon/index.html
 
 # How to use
 1. Modify the data path and parameter settings as needed
